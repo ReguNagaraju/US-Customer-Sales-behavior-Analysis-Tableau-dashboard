@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ReguNagaraju
+-    Aspiring Data Analyst
 - 👀 I’m interested in Data Science & Analytics
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science & Visualization tools
