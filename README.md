@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ReguNagaraju
-- 👀 I’m interested in Data Science & Analytics
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Data Science & Visualization tools
 - 📫 How to reach me regunagaraju.rn@gmail.com
 
