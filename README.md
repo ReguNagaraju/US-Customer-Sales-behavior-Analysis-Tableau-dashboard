@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ReguNagaraju
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data Science & Visualization tools
-- 📫 How to reach me regunagaraju.rn@gmail.com
+•	Visualized data by comparing various metrics and created a dashboard in Tableau
+•	Used various charts like map chart, bar charts, line chart, scatter plot and created donut & butterfly chart.
+•	Inserted filters and connected all of them to source data.
 
-<!---
-ReguNagaraju/ReguNagaraju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Screenshot (475)](https://user-images.githubusercontent.com/92477493/220189962-28065eca-c248-4148-a5ae-0139a62968dd.png)
